@@ -41,8 +41,7 @@ Google Machine Learning Crash Course хорошо подходит для изу
 
 Kaggle Learn позволяет изучать машинное обучение на практике, выполняя задания с кодом. Его преимущество — работа с реальными данными, для начинающих пользователей такой формат может быть сложнее обычной демонстрации с ползунками.
 
-![Kaggle Learn](img/analogs/kaggle.png)
-
+![Kaggle Learn](img/analogs/Kaggle.png)
 
 **5. mlcourse.ai**
 
