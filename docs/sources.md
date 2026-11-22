@@ -4,13 +4,13 @@
 
 ## Официальная документация и электронные ресурсы
 
-1. Django 5.2 documentation : официальный сайт. — URL: https://docs.djangoproject.com/en/5.2/ (дата обращения: 22.11.2026). — Текст : электронный.
-2. Scikit-learn. User Guide : руководство пользователя. — URL: https://scikit-learn.org/stable/user_guide.html (дата обращения: 22.11.2026). — Текст : электронный.
-3. Plotly Python Open Source Graphing Library : официальная документация. — URL: https://plotly.com/python/ (дата обращения: 22.11.2026). — Текст : электронный.
-4. HTMX Documentation : официальная документация. — URL: https://htmx.org/docs/ (дата обращения: 22.11.2026). — Текст : электронный.
-5. Учебник по машинному обучению / Яндекс Образование. — URL: https://education.yandex.ru/handbook/ml (дата обращения: 22.11.2026). — Текст : электронный.
-6. Machine Learning Crash Course / Google for Developers. — URL: https://developers.google.com/machine-learning/crash-course (дата обращения: 22.11.2026). — Текст : электронный.
-7. A Neural Network Playground : интерактивный образовательный ресурс. — URL: https://playground.tensorflow.org/ (дата обращения: 22.11.2026). — Текст : электронный.
+1. Django 5.2 documentation : официальный сайт. — URL: https://docs.djangoproject.com/en/5.2/. — Текст : электронный.
+2. Scikit-learn. User Guide : руководство пользователя. — URL: https://scikit-learn.org/stable/user_guide.html. — Текст : электронный.
+3. Plotly Python Open Source Graphing Library : официальная документация. — URL: https://plotly.com/python/. — Текст : электронный.
+4. HTMX Documentation : официальная документация. — URL: https://htmx.org/docs/. — Текст : электронный.
+5. Учебник по машинному обучению / Яндекс Образование. — URL: https://education.yandex.ru/handbook/ml. — Текст : электронный.
+6. Machine Learning Crash Course / Google for Developers. — URL: https://developers.google.com/machine-learning/crash-course. — Текст : электронный.
+7. A Neural Network Playground : интерактивный образовательный ресурс. — URL: https://playground.tensorflow.org/). — Текст : электронный.
 
 
 ## Учебная литература
